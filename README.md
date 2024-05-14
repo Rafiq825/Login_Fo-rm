@@ -18,6 +18,6 @@ MongoDB
 git clone https://github.com/Rafiq825/MERN_LoginForm.git
 
 ### Set up environment variables
-DB_URI=mongodb://localhost:27017/yourdbname
+DB_URI=mongodb://localhost:27017/yourdbname <br>
 SECRET_KEY=your_secret_key
 
