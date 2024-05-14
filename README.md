@@ -10,10 +10,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them:
 
-```bash
 node.js
 npm
 MongoDB
 
-### To clone it git clone https://github.com/Rafiq825/MERN_LoginForm.git
+### To Clone
+git clone https://github.com/Rafiq825/MERN_LoginForm.git
+
+### Set up environment variables
+DB_URI=mongodb://localhost:27017/yourdbname
+SECRET_KEY=your_secret_key
 
