@@ -15,5 +15,5 @@ node.js
 npm
 MongoDB
 
-### To clone it git clone https://github.com/Rafiq825/BreadcrumbsMERN_LoginForm.git
+### To clone it git clone https://github.com/Rafiq825/MERN_LoginForm.git
 
